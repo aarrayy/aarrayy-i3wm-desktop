@@ -56,15 +56,15 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = Hack:pixelsize=9;3
+font-0 = GoogleSans-Medium:pixelsize=15;3
 font-2 = "Wuncon Siji:pixelsize=10;3"
 font-1 = Weather Icons:style=Regular:size=10;2
 font-3 = FontAwesome5Free:style=Solid:pixelsize=10;3
 font-4 = FontAwesome5Brands:style=Solid:pixelsize=10;3
 
 
-modules-left = i3 sp2 info-hackspeed sp2
-modules-right = weather sp1 linux-ver sp1 updates sp2 date sp2
+modules-left = i3 sp2
+modules-right = linux-ver sp2 date sp2
 
 tray-position = right
 tray-padding = 0
